@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="197" height="53" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m0,5.5l80,0" id="svg_2" stroke="white" stroke-width="3"/>
+  <path d="m0,48.5l80,0" id="svg_3" stroke="white" stroke-width="3"/>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_4" stroke-width="0" text-anchor="middle" transform="matrix(1.20811 0 0 1.67596 -20.4154 -12.4955)" x="98.1" xml:space="preserve" y="31.31">Moto EXPRESS</text>
+ </g>
+</svg>
